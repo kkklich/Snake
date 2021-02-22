@@ -1,5 +1,5 @@
 # Snake
-This is simple game Snake created in python. Created with pygame library.
+This is simple game Snake created in python. Using pygame library.
 
 
 
